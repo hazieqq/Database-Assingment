@@ -1,4 +1,4 @@
-# Database-Assingment
+# Datastructure-Assingment
 PROBLEM STATEMENT: 
 
 You work in a wildlife research centre in Australia. Your friend Grof is very interested in how kangaroos
